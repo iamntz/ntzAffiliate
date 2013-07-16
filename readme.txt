@@ -8,6 +8,11 @@ Contributors: Ionut Staicu
 == Description ==
 Un plugin simplu și eficient:trece toate link-urile spre emag prin profitshare. Poți urmări noutăți pe blogul meu http://www.iamntz.com/category/goodies/wordpress-profitshare/
 
+Update 16 Iulie 2013:
+Plugin-ul este tras pe linie moartă: http://www.iamntz.com/3851/frontend-developer/wordpress-profitshare-update/
+Accept pull requests: https://github.com/iamntz/wp-profitshare
+
+
 == Installation ==
 1. Dezarhivează și urcă `profitshare` în folderul `/wp-content/plugins/`
 1. Activează plugin-ul din secțiunea `Plugins` din admin-ul WordPress
